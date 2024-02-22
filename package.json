@@ -1,0 +1,22 @@
+{
+  "name": "testing_with_jest",
+  "version": "1.0.0",
+  "description": "Testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vega-2135/testing_with_jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vega-2135/testing_with_jest/issues"
+  },
+  "homepage": "https://github.com/vega-2135/testing_with_jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
